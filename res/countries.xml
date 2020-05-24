@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DataHolder>
+<Countries>
+    <Country>
+        <capital>Madrid</capital>
+        <continent>Europe</continent>
+        <foundation>1469-10-19</foundation>
+        <importance>1</importance>
+        <name>Spain</name>
+        <population>45000000</population>
+        <Representatives>
+            <Representative>
+                <Customers>
+                <Customer>
+                    <dateOfBirth>2013-05-15</dateOfBirth>
+                    <gender>Female</gender>
+                    <name>Customer1</name>
+		</Customer>
+		<Customer>
+                    <dateOfBirth>2013-04-15</dateOfBirth>
+                    <gender>Male</gender>
+                    <name>Fernando</name>
+		</Customer>
+		<Customer>
+                    <gender>Male</gender>
+                    <name>Augusto</name>
+                </Customer>
+		</Customers>
+                <name>GeorgRep</name>
+            </Representative>
+            <Representative>
+                <name>Kyle</name>
+            </Representative>
+            <Representative>
+                <name>Jose</name>
+            </Representative>
+        </Representatives>
+    </Country>
+    <Country>
+        <capital>Niamey</capital>
+        <continent>Africa</continent>
+        <foundation>1469-10-19</foundation>
+        <importance>1</importance>
+        <name>Niger</name>
+        <population>21000000</population>
+        <Representatives>
+            <Representative>
+		<Customers>
+                <Customer>
+                    <gender>Unspecified</gender>
+                    <name>Shorty</name>
+                </Customer>
+                <Customer>
+                    <gender>Male</gender>
+                    <name>Georg</name>
+                </Customer>
+                <Customer>
+                    <gender>Male</gender>
+                    <name>Rene</name>
+                </Customer>
+		</Customers>
+                <name>Brunner</name>
+            </Representative>
+        </Representatives>
+    </Country>
+</Countries>
+</DataHolder>
+

@@ -1,0 +1,22 @@
+select {
+    margin-right: 50px;
+}
+
+option {
+    font-family: "Arial";
+    font-size: 20pt;
+}
+
+h1 {
+    font-family: "Arial";
+    font-size: 40pt;
+    font-style: italic;
+    color: red;
+}
+
+#addRep {
+    font-family: "Arial";
+    font-size: 30pt;
+    font-style: italic;
+    color: blue;
+}
